@@ -8,6 +8,7 @@ This is a backend project that will be full stack later.
     2. bcrypt
     3. mongoose aggregator pagination
     4. cookie-parser
+    5. multer
 
 ## Things i need to understand first - 
 
