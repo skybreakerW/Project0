@@ -16,7 +16,7 @@ This is a backend project that will be full stack later.
     2. CORS, merging backend and frontend
     3. Everything in the 'Utils' folder
     4. Some() method in JS
-    5. $or: (syntax)
+    5. $or: (mongoDB syntax)
     6. cookies
 
 ## Things i understand well - 
